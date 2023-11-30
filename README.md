@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Curtis
+- 👀 I’m interested in anything besides coding
+- 🌱 I’m currently Studing CS at Georgia Institue of Technology
+- 💞️ I’m looking to collaborate on anything fun!
+- 📫 How to reach me --> Github🤓
