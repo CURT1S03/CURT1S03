@@ -1,4 +1,4 @@
-# Hi there, I'm Curtis! 👋
+# Hi there, I'm Curtis! 
 
 I'm a Computer Science student at **Georgia Institute of Technology** (Class of 2026) passionate about **AI/ML**, **Robotics**, and **Cloud Engineering**.
 
