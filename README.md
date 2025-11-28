@@ -21,7 +21,3 @@ I'm a Computer Science student at **Georgia Institute of Technology** (Class of 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Curtis' Stats](https://github-readme-stats.vercel.app/api?username=CURT1S03&show_icons=true&theme=radical&hide_border=true&t=1)
