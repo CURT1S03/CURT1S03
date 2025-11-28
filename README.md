@@ -24,4 +24,4 @@ I'm a Computer Science student at **Georgia Institute of Technology** (Class of 
 ---
 
 ### 📊 GitHub Stats
-![Curtis' Stats](https://github-readme-stats.vercel.app/api?username=CURT1S03&show_icons=true&theme=radical&hide_border=true)
+![Curtis' Stats](https://github-readme-stats.vercel.app/api?username=CURT1S03&show_icons=true&theme=radical&hide_border=true&t=1)
