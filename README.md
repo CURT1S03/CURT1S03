@@ -1,16 +1,18 @@
-# Hi there, I'm Curtis! 
+# Hi there, I'm Curtis! 👋
 
 I'm a Computer Science student at **Georgia Institute of Technology** (Class of 2026) passionate about **AI/ML**, **Robotics**, and **Cloud Engineering**.
 
-- 🌱 I’m currently studying **Computer Vision** and **Robotics** at Georgia Tech
+- 🌐 **Portfolio:** [curtiscao.netlify.app](https://curtiscao.netlify.app/)
+- 🌱 I’m currently studying **Computer Vision** and **Machine Learning** at Georgia Tech
 - 🔭 I’m building **RAG Chatbots** (LangChain/Azure) and **Robotics Digital Twins** (ROS 2)
 - ☁️ I have experience deploying microservices with **Docker** and **Kubernetes**
-- ⚡ **Fun fact:** When I'm not coding, I'm interested in everything from **Making Gundam Models** to **Fixing Cars**!
+- ⚡ **Fun fact:** When I'm not coding, I'm into **Making Gundam Models** and **Fixing Cars**!
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/curtiscao/)
 
 ---
 
 ### 🛠️ Languages & Tools
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,3 +23,10 @@ I'm a Computer Science student at **Georgia Institute of Technology** (Class of 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 📊 GitHub Activity
+
+![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CURT1S03&show_icons=true&theme=react&hide_border=true&display_format=v2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CURT1S03&layout=compact&theme=react&hide_border=true)
