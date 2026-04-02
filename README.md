@@ -1,14 +1,14 @@
 # Hi there, I'm Curtis! 👋
 
-I'm a Computer Science student at **Georgia Institute of Technology** (Class of 2026) passionate about **AI/ML**, **Robotics**, and **Cloud Engineering**.
+I'm a Computer Science (BS/MS) student at **Georgia Institute of Technology** passionate about **AI/ML**, **Robotics**, and **Cloud Engineering**.
 
 - 🌐 **Portfolio:** [curtiscao.netlify.app](https://curtiscao.netlify.app/)
-- 🌱 I’m currently studying **Computer Vision** and **Machine Learning** at Georgia Tech
-- 🔭 I’m building **RAG Chatbots** (LangChain/Azure) and **Robotics Digital Twins** (ROS 2)
-- ☁️ I have experience deploying microservices with **Docker** and **Kubernetes**
+- 🌱 I’m currently pursuing my **BS/MS in Computer Science** at Georgia Tech (Class of 2026/2027)
+- 🔭 I recently built an enterprise **RAG Chatbot** (LangChain/Azure OpenAI) and develop **Robotics Digital Twins** (NVIDIA Omniverse/ROS 2)
+- ☁️ I have experience engineering full-stack platforms and deploying microservices with **Docker**, **Kubernetes**, and **GitHub Actions**
+- 🏎️ I also build race-day telemetry pipelines and strategy simulators for **Georgia Tech Solar Racing**
 - ⚡ **Fun fact:** When I'm not coding, I'm into **Making Gundam Models** and **Fixing Cars**!
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/curtiscao/)
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -22,11 +22,3 @@ I'm a Computer Science student at **Georgia Institute of Technology** (Class of 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CURT1S03&show_icons=true&theme=react&hide_border=true&display_format=v2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CURT1S03&layout=compact&theme=react&hide_border=true)
