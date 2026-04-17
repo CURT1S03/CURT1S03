@@ -5,7 +5,6 @@ I'm a Computer Science (BS/MS) student at **Georgia Institute of Technology** pa
 - 🌐 **Portfolio:** (https://curt1s03.github.io/Portfolio/)
 - 🌱 I’m currently pursuing my **BS/MS in Computer Science** at Georgia Tech (Class of 2026/2027)
 - 🔭 I recently built an enterprise **RAG Chatbot** (LangChain/Azure OpenAI) and develop **Robotics Digital Twins** (NVIDIA Omniverse/ROS 2)
-- ☁️ I have experience engineering full-stack platforms and deploying microservices with **Docker**, **Kubernetes**, and **GitHub Actions**
 - 🏎️ I also build race-day telemetry pipelines and strategy simulators for **Georgia Tech Solar Racing**
 - ⚡ **Fun fact:** When I'm not coding, I'm into **Making Gundam Models** and **Fixing Cars**!
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/curtiscao/)
