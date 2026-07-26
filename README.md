@@ -1,4 +1,4 @@
-# Hi there, I'm Curtis! 👋
+# Hi there, I'm Curtis!
 
 I'm a Computer Science (BS/MS) student at **Georgia Institute of Technology** passionate about **AI/ML**, **Robotics**, and **Cloud Engineering**.
 
